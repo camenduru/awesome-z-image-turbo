@@ -5,7 +5,7 @@
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
 <a href="https://github.com/JimmyLv/awesome-nano-banana/stargazers">
-  <img src="https://img.shields.io/github/stars/JimmyLv/awesome-nano-banana?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/stars/camenduru/awesome-z-image-turbo?style=social" alt="GitHub stars">
 </a>
 
 🎉 Welcome to 🤘 Z Image Turbo Collection!
