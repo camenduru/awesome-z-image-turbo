@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-# Awesome 🍌 Nano Banana Images ✨
+# Awesome 🤘 Z Image Turbo ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
@@ -8,37 +8,20 @@
   <img src="https://img.shields.io/github/stars/JimmyLv/awesome-nano-banana?style=social" alt="GitHub stars">
 </a>
 
-🎉 Welcome to 🍌 Nano Banana Image Collection!
+🎉 Welcome to 🤘 Z Image Turbo Collection!
 
-This is a curated collection of Gemini-2.5-Flash-Image (also known as Nano Banana) generated images and prompts. Leveraging Google's cutting-edge image generation model, it comprehensively showcases Gemini's advanced capabilities in AI image generation and editing, while continuously exploring new possibilities for creative expression.
+This is a curated collection of Z Image Turbo generated images and prompts. Z-Image-Turbo is a **fully open-source** AI image generation model designed for **speed, transparency, and local deployment**. It empowers developers and creators to generate high-quality images **directly on their own consumer-level GPUs**, without relying on closed APIs or cloud infrastructure.
 
 Cases mainly come from Twitter/X 🐦 and various AI communities 🎬. May these cases inspire you 💡 and accelerate your creativity 🚀.
 
 <strong>→ Smash that ⭐ if you like it!</strong>
 
-## Sponsors
-
-💡 **Recommended Tool**: Want to quickly experience various AI image generation models? We recommend using the [chatimg.ai](https://chatimg.ai) website, which supports mainstream models like GPT-4o, Gemini, Flux, Grok and more for image generation, provides numerous beautiful templates, and supports custom prompt creation!
-
-<img src="https://supermaker.ai/icon/favicon-96x96.png" width="16" alt="Free Nano Banana AI Logo"> [Free Nano Banana AI](https://supermaker.ai/image/nano-banana/) Edit Photos with Text or Image | SuperMaker AI
-
-
 ---
-## 🤖 Gemini vs GPT-4o Comparison Version
-
-This document has been updated with 97 case comparisons regenerated using the Gemini model. Each updated case showcases:
-- 📊 **Side-by-side comparison**: GPT-4o original vs Gemini generated images
-- 🔧 **Technical details**: Token usage, generation time and other statistics
-- 🎨 **Visual differences**: Different performances of the two models under the same prompts
-
-Last updated: 8/30/2025, 10:08:15 PM
-
----
-
 
 <a id="table-of-contents"></a>
 ## Contents
 
+- [🤘 What is Z Image Turbo](#z-image-turbo)
 - [🍌 What is Nano Banana](#nano-banana-intro)
 - [🎨 What is GPT‑4o](#gpt4o-intro)
 - [📖 Cases Directory](#cases-toc)
@@ -51,6 +34,19 @@ Last updated: 8/30/2025, 10:08:15 PM
 
 ---
 
+<a id="z-image-turbo-intro"></a>
+## 🤘 What is Z-Image-Turbo
+
+Z-Image-Turbo is a **fully open-source** AI image generation model designed for **speed, transparency, and local deployment**. It empowers developers and creators to generate high-quality images **directly on their own consumer-level GPUs**, without relying on closed APIs or cloud infrastructure.
+
+- 🌍 **Open-Source by Design**: Fully inspectable, customizable, and extensible—no black boxes, no vendor lock-in  
+- 🖥️ **Runs on Consumer GPUs**: Generate images locally using common NVIDIA/AMD GPUs—laptops and desktops included  
+- ⚡ **Ultra-Fast Generation**: Optimized for low-latency inference and rapid iteration  
+- 🧠 **Prompt-Faithful Output**: Accurately follows textual instructions while preserving creative intent  
+- 🎯 **Clean & Reliable Results**: Sharp, consistent images with minimal artifacts  
+- 🎨 **Versatile Style Support**: Photorealism, illustration, concept art, and stylized visuals  
+- 🧩 **Developer-First Workflow**: Ideal for custom tools, offline workflows, batch jobs, and automation  
+- 🔄 **Community-Driven Evolution**: Improved continuously through open collaboration
 
 <a id="nano-banana-intro"></a>
 ## 🍌 What is Nano Banana
