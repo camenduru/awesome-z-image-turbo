@@ -1317,7 +1317,7 @@ Barcelona Spain colourful summer vector art poster with big "BARCELONA" title at
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ufKQRU-0zXXlACt_A_DNd.png?v=1" width="300" alt="Cloud Art - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/58/example_cloud_art_dragon_great_wall.png" width="300" alt="Cloud Art - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/70918fb3-f489-4956-bb78-ef9baaec52f3" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ufKQRU-0zXXlACt_A_DNd.png?v=1" width="300" alt="Cloud Art - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/58/example_cloud_art_dragon_great_wall.png" width="300" alt="Cloud Art - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
@@ -1341,7 +1341,7 @@ Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] fo
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png?v=1" width="300" alt="Pixel Icon - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/57/example_8bit_pixel_beer.png" width="300" alt="Pixel Icon - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/6b5efc45-ee23-47ab-baf9-b60404e56b89" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png?v=1" width="300" alt="Pixel Icon - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/57/example_8bit_pixel_beer.png" width="300" alt="Pixel Icon - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
