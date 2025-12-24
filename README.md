@@ -1538,7 +1538,7 @@ The title “Archaeological Adventure” and the name “Lara Croft” (accompan
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-K-zMRlzu3y9bErJh5oDDe.png?v=1" width="300" alt="Art Style: 时尚杂志封面风格 (Gemini Example 49) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/49/example_fashion_design_cover.png" width="300" alt="Art Style: 时尚杂志封面风格 (Gemini Example 49) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2c73084b-9a82-4cb7-bb18-1260f367c8da" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-K-zMRlzu3y9bErJh5oDDe.png?v=1" width="300" alt="Art Style: 时尚杂志封面风格 (Gemini Example 49) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/49/example_fashion_design_cover.png" width="300" alt="Art Style: 时尚杂志封面风格 (Gemini Example 49) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -1561,7 +1561,7 @@ A beautiful woman wearing a pink qipao, adorned with delicate floral accessories
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-DePREjDt3nz6nxtQSWCtb.png?v=1" width="300" alt="Object: 体素风格 3D 图标转换 (Gemini Example 48) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/48/example_voxel_icon.png" width="300" alt="Object: 体素风格 3D 图标转换 (Gemini Example 48) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/df0f7f32-cdda-4c14-8577-f2d865543109" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-DePREjDt3nz6nxtQSWCtb.png?v=1" width="300" alt="Object: 体素风格 3D 图标转换 (Gemini Example 48) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/48/example_voxel_icon.png" width="300" alt="Object: 体素风格 3D 图标转换 (Gemini Example 48) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/BrettFromDJ">@BrettFromDJ</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/BrettFromDJ">@BrettFromDJ</a></sub>
 
 **Prompt**
@@ -1586,7 +1586,7 @@ Take the icon on the right and transform it into a voxel 3d icon like the icons 
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png?v=1" width="300" alt="Object: 键盘ESC 键帽微型立体模型 (Gemini Example 47) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/47/example_esc_keycap_diorama.png" width="300" alt="Object: 键盘ESC 键帽微型立体模型 (Gemini Example 47) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/d2e765f9-acea-493b-8255-438e006c7ff8" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png?v=1" width="300" alt="Object: 键盘ESC 键帽微型立体模型 (Gemini Example 47) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/47/example_esc_keycap_diorama.png" width="300" alt="Object: 键盘ESC 键帽微型立体模型 (Gemini Example 47) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
@@ -1609,7 +1609,7 @@ A hyper-realistic isometric 3D render of a miniature computer setup inside a tra
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-iw-Sugn5aVfAVnJxGSU_e.png?v=1" width="300" alt="Object: 快乐胶囊制作 (Gemini Example 46) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/46/example_happy_capsule.png" width="300" alt="Object: 快乐胶囊制作 (Gemini Example 46) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/bb0bf13f-e721-4aff-80e1-85216d748a06" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-iw-Sugn5aVfAVnJxGSU_e.png?v=1" width="300" alt="Object: 快乐胶囊制作 (Gemini Example 46) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/46/example_happy_capsule.png" width="300" alt="Object: 快乐胶囊制作 (Gemini Example 46) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
