@@ -648,7 +648,7 @@ Create an image of a cute chibi-style silicone wrist rest based on the {🐼} em
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/723b7791-656a-44ba-a451-625b6ea9d90a" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v=1" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/83/case.png" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c62d197c-1c5a-43ca-bd74-66ccdd0ea98e" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v=1" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/83/case.png" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
@@ -754,7 +754,7 @@ The card displays the following code formatted in JSON:
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v=1" width="300" alt="Art Style: 乐高城市景观 (Gemini Example 79) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/79/example_lego_shanghai_bund.png" width="300" alt="Art Style: 乐高城市景观 (Gemini Example 79) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/259756f8-2b7e-4386-af4a-6ae2105ffc83" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v=1" width="300" alt="Art Style: 乐高城市景观 (Gemini Example 79) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/79/example_lego_shanghai_bund.png" width="300" alt="Art Style: 乐高城市景观 (Gemini Example 79) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -780,7 +780,7 @@ The sky is LEGO’s signature bright blue, adorned with a few white LEGO brick c
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jmGRjdDLKOu0Lwb-gg2Se.png?v=1" width="300" alt="玻璃材质重塑 (Gemini Example 78) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/78/example_retexture_glass_phone.png" width="300" alt="玻璃材质重塑 (Gemini Example 78) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ed24b2ea-6844-4405-97a5-b0df899a67ce" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jmGRjdDLKOu0Lwb-gg2Se.png?v=1" width="300" alt="玻璃材质重塑 (Gemini Example 78) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/78/example_retexture_glass_phone.png" width="300" alt="玻璃材质重塑 (Gemini Example 78) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
@@ -821,7 +821,7 @@ retexture the image attached based on the json below:
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-tcPJYJqWhSiLBt-KMnuyD.png?v=1" width="300" alt="Character: 水晶球故事场景 (Gemini Example 77) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/77/example_crystal_ball_chang_e.png" width="300" alt="Character: 水晶球故事场景 (Gemini Example 77) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9f6c6a43-6af7-4dbb-8bb4-c2f7bf66baeb" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-tcPJYJqWhSiLBt-KMnuyD.png?v=1" width="300" alt="Character: 水晶球故事场景 (Gemini Example 77) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/77/example_crystal_ball_chang_e.png" width="300" alt="Character: 水晶球故事场景 (Gemini Example 77) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -843,9 +843,9 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 <a id="cases-76"></a>
 ### Case 76: Nostalgic Anime Film Poster (by [photis (Sora)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ))
 
-[Source Link](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
-
-<img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="Nostalgic Anime Film Poster"><br>
+|   ZIT  | Gemini | GPT-4o |
+|--------|--------|--------|
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f26ac655-babf-4088-acfd-17314a209547" /> | [Source Link](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf) | <img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="Nostalgic Anime Film Poster"><br>
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub>
 
 **Prompt**
