@@ -20,8 +20,7 @@ Cases mainly come from Twitter/X 🐦 and various AI communities 🎬. May these
 
 <a id="table-of-contents"></a>
 ## Contents
-
-- [🤘 What is Z Image Turbo](#z-image-turbo)
+- [🤘 What is Z Image Turbo](#z-image-turbo-intro)
 - [🍌 What is Nano Banana](#nano-banana-intro)
 - [🎨 What is GPT‑4o](#gpt4o-intro)
 - [📖 Cases Directory](#cases-toc)
