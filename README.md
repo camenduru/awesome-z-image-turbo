@@ -369,7 +369,7 @@ A close-up selfie of three [animal type] with different expressions in front of 
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v=1" width="300" alt="玻璃质感重塑 (Gemini Example 93) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/93/glass_retexturing.png" width="300" alt="玻璃质感重塑 (Gemini Example 93) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/85dd8481-cba4-4ccc-ac42-9e38b4033c80" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v=1" width="300" alt="玻璃质感重塑 (Gemini Example 93) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/93/glass_retexturing.png" width="300" alt="玻璃质感重塑 (Gemini Example 93) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
@@ -2961,6 +2961,8 @@ Transform the two people in the photo into chibi-style 3D cartoon characters. Ch
 ## 🛠️ Tools Introduction
 
 Here are applications where you can use the GPT-4o model to generate images:
+
+- **💬 [TostUI](https://github.com/camenduru/tostui):** This project is a collection of Docker-based web user interfaces designed to easily run various state-of-the-art generative AI models locally. It simplifies the deployment of these AI tools by packaging them into ready-to-use containers with accessible front-end controls.
 
 - **💬 [ChatGPT](https://chatgpt.com):** Official OpenAI product. Use GPT-4o to generate high-quality images with support for multiple styles and detailed control, suitable for creative expression and content creation.
 
