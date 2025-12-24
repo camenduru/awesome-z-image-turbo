@@ -944,7 +944,7 @@ A close-up photo of a cute, colorful keychain held by person's hand. The keychai
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jyQlvtvYcyYWu61X_cWk6.png?v=1" width="300" alt="Art Style: 金色吊坠项链 (Gemini Example 72) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/72/gold_pendant_necklace.png" width="300" alt="Art Style: 金色吊坠项链 (Gemini Example 72) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/236de01a-3c08-48fd-9d36-5458467cce09" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-jyQlvtvYcyYWu61X_cWk6.png?v=1" width="300" alt="Art Style: 金色吊坠项链 (Gemini Example 72) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/72/gold_pendant_necklace.png" width="300" alt="Art Style: 金色吊坠项链 (Gemini Example 72) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
@@ -969,7 +969,7 @@ A photorealistic close-up of a gold pendant necklace held by female hand. The pe
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-d4mtCy2DuZk2bkXiDMoOS.png?v=1" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5cc43138-03ae-4d11-ae97-8f96a0b3c4eb" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-d4mtCy2DuZk2bkXiDMoOS.png?v=1" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/terry623">terry623</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub>
 
 **Prompt**
@@ -994,7 +994,7 @@ A highly detailed miniature [Cyberpunk] landscape viewed from above, using a til
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png?v=1" width="300" alt="Character: 原创宝可梦生成 (Gemini Example 70) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/70/example_pokemon_strawbit.png" width="300" alt="Character: 原创宝可梦生成 (Gemini Example 70) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5dfa1f91-031b-4307-9ccd-3fc40e60f322" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png?v=1" width="300" alt="Character: 原创宝可梦生成 (Gemini Example 70) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/70/example_pokemon_strawbit.png" width="300" alt="Character: 原创宝可梦生成 (Gemini Example 70) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Anima_Labs">@Anima_Labs</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Anima_Labs">@Anima_Labs</a></sub>
 
 **Prompt**
