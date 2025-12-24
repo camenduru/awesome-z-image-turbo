@@ -1365,7 +1365,7 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0bQpHIpimYLLrSJ8qe6C6.png?v=1" width="300" alt="Object: 迷你 3D 建筑 (Gemini Example 56) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/56/example_miniature_starbucks_cup_building.png" width="300" alt="Object: 迷你 3D 建筑 (Gemini Example 56) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/3f849d25-0007-4296-bd84-1455c0c98944" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-0bQpHIpimYLLrSJ8qe6C6.png?v=1" width="300" alt="Object: 迷你 3D 建筑 (Gemini Example 56) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/56/example_miniature_starbucks_cup_building.png" width="300" alt="Object: 迷你 3D 建筑 (Gemini Example 56) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -1389,7 +1389,7 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-KMvfZkLFuvMEzCzBT8ywr.png?v=1" width="300" alt="Creative: 创意绿植花盆 (Gemini Example 55) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/55/cute_plant_planter.png" width="300" alt="Creative: 创意绿植花盆 (Gemini Example 55) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/21c1b69b-8cf6-43fd-9508-39cd4854402d" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-KMvfZkLFuvMEzCzBT8ywr.png?v=1" width="300" alt="Creative: 创意绿植花盆 (Gemini Example 55) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/55/cute_plant_planter.png" width="300" alt="Creative: 创意绿植花盆 (Gemini Example 55) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
@@ -1413,7 +1413,7 @@ A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glo
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-REfe_PfgYfz67f5liafKu.png?v=1" width="300" alt="Art Style: “极其平凡”的iPhone自拍 (Gemini Example 54) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/54/example_ordinary_selfie_eason_nicholas.png" width="300" alt="Art Style: “极其平凡”的iPhone自拍 (Gemini Example 54) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2c413351-2ee0-4b6d-81f2-ba03cf6b7a25" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-REfe_PfgYfz67f5liafKu.png?v=1" width="300" alt="Art Style: “极其平凡”的iPhone自拍 (Gemini Example 54) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/54/example_ordinary_selfie_eason_nicholas.png" width="300" alt="Art Style: “极其平凡”的iPhone自拍 (Gemini Example 54) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/jiamimaodashu">@jiamimaodashu</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/jiamimaodashu">@jiamimaodashu</a></sub>
 
 **Prompt**
@@ -1438,7 +1438,7 @@ The subjects are Eason Chan and Nicholas Tse, taken at night, next to the Hong K
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-0QNwJ8orXTqLGNNtoM2Uq.png?v=1" width="300" alt="Object: Emoji 充气感靠垫 (Gemini Example 53) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/53/example_emoji_cushion_pleading.png" width="300" alt="Object: Emoji 充气感靠垫 (Gemini Example 53) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/35ce6d9a-e0af-4a4c-96ab-b8e657caa857" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-0QNwJ8orXTqLGNNtoM2Uq.png?v=1" width="300" alt="Object: Emoji 充气感靠垫 (Gemini Example 53) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/53/example_emoji_cushion_pleading.png" width="300" alt="Object: Emoji 充气感靠垫 (Gemini Example 53) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
 
 **Prompt**
@@ -1462,7 +1462,7 @@ Create a high-resolution 3D render of [🥹] designed as an inflatable, puffy ob
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png?v=1" width="300" alt="Object: 纸艺风格 Emoji 图标 (Gemini Example 52) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/52/example_paper_craft_emoji_fire.png" width="300" alt="Object: 纸艺风格 Emoji 图标 (Gemini Example 52) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/d455f02a-606f-4305-bcdb-1361140748ac" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png?v=1" width="300" alt="Object: 纸艺风格 Emoji 图标 (Gemini Example 52) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/52/example_paper_craft_emoji_fire.png" width="300" alt="Object: 纸艺风格 Emoji 图标 (Gemini Example 52) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
@@ -1486,7 +1486,7 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uvbE1o3K9l86ZW1N1pNML.png?v=1" width="300" alt="Design: 护照入境印章 (Gemini Example 51) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/51/example_passport_stamp_rome.png" width="300" alt="Design: 护照入境印章 (Gemini Example 51) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f505bc5d-8a9d-4e7b-a9d1-11a3e5dbd6e1" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uvbE1o3K9l86ZW1N1pNML.png?v=1" width="300" alt="Design: 护照入境印章 (Gemini Example 51) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/51/example_passport_stamp_rome.png" width="300" alt="Design: 护照入境印章 (Gemini Example 51) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/M_w14_">@M_w14_</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/M_w14_">@M_w14_</a></sub>
 
 **Prompt**
@@ -1510,7 +1510,7 @@ Create a realistic passport page with an entry stamp for [{City}, {Country}]. Th
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-BLiip47sS1MZ2p6RoUSJN.png?v=1" width="300" alt="Creative: 物理破坏效果卡片 (劳拉) (Gemini Example 50) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/50/example_lara_croft_card_break.png" width="300" alt="Creative: 物理破坏效果卡片 (劳拉) (Gemini Example 50) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/61f26a67-72a6-4d8a-882a-9b3165d57558" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-BLiip47sS1MZ2p6RoUSJN.png?v=1" width="300" alt="Creative: 物理破坏效果卡片 (劳拉) (Gemini Example 50) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/50/example_lara_croft_card_break.png" width="300" alt="Creative: 物理破坏效果卡片 (劳拉) (Gemini Example 50) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
 
 **Prompt**
