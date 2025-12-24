@@ -600,7 +600,7 @@ Double exposure, Midjourney style, merging, blending, overlay double exposure im
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v=1" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/85/case.png" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/aeabf592-c86c-43c8-a9c0-16dd11b4f5bc" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v=1" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/85/case.png" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
@@ -624,7 +624,7 @@ A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] i
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-NVse4zVhgYoKSGvN__y-m.png?v=1" width="300" alt="Character: 动物硅胶腕托 (Gemini Example 84) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/84/case.png" width="300" alt="Character: 动物硅胶腕托 (Gemini Example 84) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5e020969-681d-49e8-94eb-842618f2f36a" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-NVse4zVhgYoKSGvN__y-m.png?v=1" width="300" alt="Character: 动物硅胶腕托 (Gemini Example 84) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/84/case.png" width="300" alt="Character: 动物硅胶腕托 (Gemini Example 84) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
@@ -648,7 +648,7 @@ Create an image of a cute chibi-style silicone wrist rest based on the {🐼} em
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v=1" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/83/case.png" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/723b7791-656a-44ba-a451-625b6ea9d90a" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v=1" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/83/case.png" width="300" alt="Art Style: 发光线条解剖图 (Gemini Example 83) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
