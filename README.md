@@ -1,14 +1,12 @@
 <a id="readme-top"></a>
-# Awesome 🤘 Z Image Turbo ✨
+# Awesome ⚡️ Z Image Turbo ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
 <a href="https://github.com/JimmyLv/awesome-nano-banana/stargazers">
   <img src="https://img.shields.io/github/stars/camenduru/awesome-z-image-turbo?style=social" alt="GitHub stars">
 </a>
 
-🎉 Welcome to 🤘 Z Image Turbo Collection!
+🎉 Welcome to ⚡️ Z Image Turbo Collection!
 
 This is a curated collection of Z Image Turbo generated images and prompts. Z-Image-Turbo is a **fully open-source** AI image generation model designed for **speed, transparency, and local deployment**. It empowers developers and creators to generate high-quality images **directly on their own consumer-level GPUs**, without relying on closed APIs or cloud infrastructure.
 
@@ -20,7 +18,7 @@ Cases mainly come from Twitter/X 🐦 and various AI communities 🎬. May these
 
 <a id="table-of-contents"></a>
 ## Contents
-- [🤘 What is Z Image Turbo](#z-image-turbo-intro)
+- [⚡️ What is Z Image Turbo](#z-image-turbo-intro)
 - [🍌 What is Nano Banana](#nano-banana-intro)
 - [🎨 What is GPT‑4o](#gpt4o-intro)
 - [📖 Cases Directory](#cases-toc)
@@ -34,7 +32,7 @@ Cases mainly come from Twitter/X 🐦 and various AI communities 🎬. May these
 ---
 
 <a id="z-image-turbo-intro"></a>
-## 🤘 What is Z-Image-Turbo
+## ⚡️ What is Z-Image-Turbo
 
 Z-Image-Turbo is a **fully open-source** AI image generation model designed for **speed, transparency, and local deployment**. It empowers developers and creators to generate high-quality images **directly on their own consumer-level GPUs**, without relying on closed APIs or cloud infrastructure.
 
@@ -2966,7 +2964,9 @@ Transform the two people in the photo into chibi-style 3D cartoon characters. Ch
 
 Here are applications where you can use the GPT-4o model to generate images:
 
-- **💬 [TostUI](https://github.com/camenduru/tostui):** This project is a collection of Docker-based web user interfaces designed to easily run various state-of-the-art generative AI models locally. It simplifies the deployment of these AI tools by packaging them into ready-to-use containers with accessible front-end controls.
+- **⚡️ [Z-Image](https://github.com/Tongyi-MAI/Z-Image):** An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer.
+
+- **🍞 [TostUI](https://github.com/camenduru/tostui):** This project is a collection of Docker-based web user interfaces designed to easily run various state-of-the-art generative AI models locally. It simplifies the deployment of these AI tools by packaging them into ready-to-use containers with accessible front-end controls.
 
 - **💬 [ChatGPT](https://chatgpt.com):** Official OpenAI product. Use GPT-4o to generate high-quality images with support for multiple styles and detailed control, suitable for creative expression and content creation.
 
