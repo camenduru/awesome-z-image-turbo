@@ -2105,7 +2105,7 @@ Naruto stickers
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/c66d1d4e-0c96-4e36-a927-32dd5a14ced8" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-cX5uRn99v6ieXg54VaMkT.png?v=1" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4oimages/cases/29/example_pearl_earring_ootd.png" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c66d1d4e-0c96-4e36-a927-32dd5a14ced8" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-cX5uRn99v6ieXg54VaMkT.png?v=1" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - Gemini"> | <img src="cases/29/example_pearl_earring_ootd.png" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
