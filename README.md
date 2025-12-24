@@ -697,7 +697,7 @@ Show a clear 45-degree bird’s-eye view of an isometric miniature city scene fe
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_aDii7pr31c7nBC30esLt.png?v=1" width="300" alt="Interior: 半透明玻璃质感变换 (Gemini Example 81) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/81/example.png" width="300" alt="Interior: 半透明玻璃质感变换 (Gemini Example 81) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f248025a-37fa-42fd-b218-79d23f81f928" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_aDii7pr31c7nBC30esLt.png?v=1" width="300" alt="Interior: 半透明玻璃质感变换 (Gemini Example 81) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/81/example.png" width="300" alt="Interior: 半透明玻璃质感变换 (Gemini Example 81) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
@@ -722,7 +722,7 @@ A soft, 3D translucent glass of the attached image with a frosty matte finish an
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png?v=1" width="300" alt="Art Style: 代码风格名片 (Gemini Example 80) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/80/example_business_card_code_style.png" width="300" alt="Art Style: 代码风格名片 (Gemini Example 80) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/4ad4bed8-9d44-439d-8140-9a01a2d7d735" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png?v=1" width="300" alt="Art Style: 代码风格名片 (Gemini Example 80) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/80/example_business_card_code_style.png" width="300" alt="Art Style: 代码风格名片 (Gemini Example 80) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
