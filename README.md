@@ -2333,7 +2333,7 @@ Next to the box, show a realistic rendering of the actual figure outside the pac
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b158be3-e44f-4899-9760-7ddeafaeeb09" /> | | <img src="cases/23/example_titanic_q_realistic.png" width="300" alt=""Titanic" Pose Parody"><br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1b158be3-e44f-4899-9760-7ddeafaeeb09" /> | | <img src="cases/23/example_titanic_q_realistic.png" width="300" alt="Titanic Pose Parody"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
