@@ -2889,7 +2889,7 @@ This image should reflect the joy and blessing of a traditional Chinese wedding,
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-thZejMgX0PGR1nPyj1Z3t.png?v=1" width="300" alt="Retro Promotional Poster - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/3/example_vintage_poster.png" width="300" alt="Retro Promotional Poster - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/7391b235-09b8-4bdd-8456-dca0ace4300a" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-thZejMgX0PGR1nPyj1Z3t.png?v=1" width="300" alt="Retro Promotional Poster - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/3/example_vintage_poster.png" width="300" alt="Retro Promotional Poster - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -2912,7 +2912,7 @@ A retro-style promotional poster emphasizing bold Chinese text. The background f
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_crFMo57tTJ1ttPkPCte1.png?v=1" width="300" alt="3D Photo Frame - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/2/example_polaroid_breakout.png" width="300" alt="3D Photo Frame - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/20dc9379-36fa-49b9-954c-3679aae07e77" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_crFMo57tTJ1ttPkPCte1.png?v=1" width="300" alt="3D Photo Frame - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/2/example_polaroid_breakout.png" width="300" alt="3D Photo Frame - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -2936,7 +2936,7 @@ Convert the character in the scene into a 3D chibi-style figure, placed inside a
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--2q-4vkvHtiJCtvj9cQGr.png?v=1" width="300" alt="Q Version Proposal Scene - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/1/example_proposal_scene_q_realistic.png" width="300" alt="Q Version Proposal Scene - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/397d09eb-0197-4f50-8486-790fb70f8a42" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--2q-4vkvHtiJCtvj9cQGr.png?v=1" width="300" alt="Q Version Proposal Scene - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/1/example_proposal_scene_q_realistic.png" width="300" alt="Q Version Proposal Scene - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
