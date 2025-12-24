@@ -1743,7 +1743,7 @@ Inside the globe: The characters are in a cute chibi-style 3D design, gazing at 
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed928c84-55de-4bc5-98f2-a2e53d0d4639" /> | | <img src="cases/41/example_miniature_journey_west.png" width="300" alt="Miniature Three-dimensional Scene Presentation"><br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ed928c84-55de-4bc5-98f2-a2e53d0d4639" /> | | <img src="cases/41/example_miniature_journey_west.png" width="300" alt="Miniature Three-dimensional Scene Presentation"><br>
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -1888,7 +1888,7 @@ a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like t
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/36/example_minimalist_3d_toilet_txt.png" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/34e3583c-de8e-4d41-b149-e7e911dba08b" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/36/example_minimalist_3d_toilet_txt.png" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -1947,7 +1947,7 @@ Draw a Toilet
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-UDSfh81o50kmjmgX5BuTy.png?v=1" width="300" alt="Art Style: 毛茸茸南瓜灯 (Gemini Example 35) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/35/example_fluffy_pumpkin.png" width="300" alt="Art Style: 毛茸茸南瓜灯 (Gemini Example 35) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/95cfdeaa-3fff-49eb-b472-f48f24a54de9" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-UDSfh81o50kmjmgX5BuTy.png?v=1" width="300" alt="Art Style: 毛茸茸南瓜灯 (Gemini Example 35) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/35/example_fluffy_pumpkin.png" width="300" alt="Art Style: 毛茸茸南瓜灯 (Gemini Example 35) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">gizakdag</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">gizakdag</a></sub>
 
 **Prompt**
@@ -1970,7 +1970,7 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ypjUbOaP1AqH_HBZ4VisI.png?v=1" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 34) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/34/example_hand_drawn_infographic_cognition.png" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 34) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ad958f91-c91e-4297-8887-b84a6f069325" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ypjUbOaP1AqH_HBZ4VisI.png?v=1" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 34) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/34/example_hand_drawn_infographic_cognition.png" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 34) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -2003,7 +2003,7 @@ The overall layout should maintain visual balance, with ample white space reserv
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ZhHgKkryQe_e62gJyMpj8.png?v=1" width="300" alt="Character: 全家福婚纱照 (Gemini Example 33) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/33/example_family_wedding_photo_q.png" width="300" alt="Character: 全家福婚纱照 (Gemini Example 33) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/0f8519c8-63e1-4a8d-8366-5b82b2bb0748" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ZhHgKkryQe_e62gJyMpj8.png?v=1" width="300" alt="Character: 全家福婚纱照 (Gemini Example 33) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/33/example_family_wedding_photo_q.png" width="300" alt="Character: 全家福婚纱照 (Gemini Example 33) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
@@ -2031,7 +2031,7 @@ The entire scene is placed inside a photo frame.
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-dHSoKQFhVLIqAdUKxXzwQ.png?v=1" width="300" alt="Art Style: 折叠式纸雕立体绘本 (Gemini Example 32) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/32/3d_papercraft_popup_book.png" width="300" alt="Art Style: 折叠式纸雕立体绘本 (Gemini Example 32) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/47ab6b1a-86da-46a5-9cb0-89e216dc5bfd" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-dHSoKQFhVLIqAdUKxXzwQ.png?v=1" width="300" alt="Art Style: 折叠式纸雕立体绘本 (Gemini Example 32) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/32/3d_papercraft_popup_book.png" width="300" alt="Art Style: 折叠式纸雕立体绘本 (Gemini Example 32) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -2055,7 +2055,7 @@ Multi-layered foldable paper sculpture pop-up book, placed on a desk, with a cle
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4.jpeg" width="300" alt="动漫贴纸集合 (Gemini Example 31) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/31/example_naruto_stickers.png" width="300" alt="动漫贴纸集合 (Gemini Example 31) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/214ea0f8-65ff-4f32-a08e-a7e28ee9852f" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4.jpeg" width="300" alt="动漫贴纸集合 (Gemini Example 31) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/31/example_naruto_stickers.png" width="300" alt="动漫贴纸集合 (Gemini Example 31) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/richardchang">@richardchang</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/richardchang">@richardchang</a></sub>
 
 **Prompt**
