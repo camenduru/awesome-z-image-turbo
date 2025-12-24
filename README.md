@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23a486c3-4da6-4619-8710-0056567cdc7f" /><a id="readme-top"></a>
+<a id="readme-top"></a>
 # Awesome 🤘 Z Image Turbo ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
