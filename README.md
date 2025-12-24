@@ -1,4 +1,4 @@
-<a id="readme-top"></a>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23a486c3-4da6-4619-8710-0056567cdc7f" /><a id="readme-top"></a>
 # Awesome 🤘 Z Image Turbo ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
@@ -345,7 +345,7 @@ Turn this photo into a bobblehead: enlarge the head slightly, keep the face accu
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-yAd6PqQMt86VX6Nh1QFCl.png?v=1" width="300" alt="Art Style: 三只动物与地标自拍 (Gemini Example 94) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/94/three_animals_selfie_at_landmark.png" width="300" alt="Art Style: 三只动物与地标自拍 (Gemini Example 94) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5b356b05-7565-4492-a6a9-abaa269a1b67" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-yAd6PqQMt86VX6Nh1QFCl.png?v=1" width="300" alt="Art Style: 三只动物与地标自拍 (Gemini Example 94) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/94/three_animals_selfie_at_landmark.png" width="300" alt="Art Style: 三只动物与地标自拍 (Gemini Example 94) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
 
 **Prompt**
@@ -426,7 +426,7 @@ retexture the image attached based on the JSON aesthetic below
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v=1" width="300" alt="Object: 透视3D出屏效果 (Gemini Example 92) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/92/perspective-3d-pop-out-effect.png" width="300" alt="Object: 透视3D出屏效果 (Gemini Example 92) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/44c9bd63-004b-4913-8235-d3aa8fda83fc" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v=1" width="300" alt="Object: 透视3D出屏效果 (Gemini Example 92) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/92/perspective-3d-pop-out-effect.png" width="300" alt="Object: 透视3D出屏效果 (Gemini Example 92) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
@@ -451,7 +451,7 @@ Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png?v=1" width="300" alt="Art Style: 谷歌地图变身古代藏宝图 (Gemini Example 91) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/91/case.png" width="300" alt="Art Style: 谷歌地图变身古代藏宝图 (Gemini Example 91) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/cabee1e1-aac8-4ac7-9805-7b5f6768d24f" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png?v=1" width="300" alt="Art Style: 谷歌地图变身古代藏宝图 (Gemini Example 91) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/91/case.png" width="300" alt="Art Style: 谷歌地图变身古代藏宝图 (Gemini Example 91) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
@@ -475,7 +475,7 @@ Transform the image to an ancient treasure map drawn on aged parchment. The map 
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-q-57zaITSb7d5Y21Ya6Rk.png?v=1" width="300" alt="Object: 品牌化键盘键帽 (Gemini Example 90) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/90/case.png" width="300" alt="Object: 品牌化键盘键帽 (Gemini Example 90) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/fdbfdb1d-c77b-4731-9999-dc56fcd00663" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-q-57zaITSb7d5Y21Ya6Rk.png?v=1" width="300" alt="Object: 品牌化键盘键帽 (Gemini Example 90) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/90/case.png" width="300" alt="Object: 品牌化键盘键帽 (Gemini Example 90) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
@@ -499,7 +499,7 @@ ultra-realistic 3D render of four mechanical keyboard keycaps in a tight 2x2 gri
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v=1" width="300" alt="Art Style: 镀铬emoji徽章 (Gemini Example 89) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/89/case.png" width="300" alt="Art Style: 镀铬emoji徽章 (Gemini Example 89) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/bf18c8d5-b707-413d-bada-a5f2fca1c985" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v=1" width="300" alt="Art Style: 镀铬emoji徽章 (Gemini Example 89) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/89/case.png" width="300" alt="Art Style: 镀铬emoji徽章 (Gemini Example 89) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
@@ -523,7 +523,7 @@ highly detailed 3D render of a single metallic {👍} emoji pin attached to a ve
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-vVoVQk6rVQBF2bGUMGfOr.png?v=1" width="300" alt="Art Style: 儿童涂色页插画（含彩色参考图） (Gemini Example 88) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/88/case.png" width="300" alt="Art Style: 儿童涂色页插画（含彩色参考图） (Gemini Example 88) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/07bec8a9-117b-4def-af34-18d4e98a906f" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-vVoVQk6rVQBF2bGUMGfOr.png?v=1" width="300" alt="Art Style: 儿童涂色页插画（含彩色参考图） (Gemini Example 88) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/88/case.png" width="300" alt="Art Style: 儿童涂色页插画（含彩色参考图） (Gemini Example 88) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -551,7 +551,7 @@ Scene description:
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-dk3V0sLLTD9fQW0DM9pxn.png?v=1" width="300" alt="字母与单词含义融合 (Gemini Example 87) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/87/case.png" width="300" alt="字母与单词含义融合 (Gemini Example 87) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9dd2dac1-cc54-43b7-8536-da58a023ce86" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-dk3V0sLLTD9fQW0DM9pxn.png?v=1" width="300" alt="字母与单词含义融合 (Gemini Example 87) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/87/case.png" width="300" alt="字母与单词含义融合 (Gemini Example 87) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -577,7 +577,7 @@ Add a brief explanation of the word below.
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uWAtByJ544cdR5nBjMM3H.png?v=1" width="300" alt="Art Style: 双重曝光 (Gemini Example 86) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/86/double_exposure.png" width="300" alt="Art Style: 双重曝光 (Gemini Example 86) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2824b056-263a-4341-a37f-d6473473383b" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uWAtByJ544cdR5nBjMM3H.png?v=1" width="300" alt="Art Style: 双重曝光 (Gemini Example 86) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/86/double_exposure.png" width="300" alt="Art Style: 双重曝光 (Gemini Example 86) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=rezzycheck">rezzycheck (Sora)</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=rezzycheck">rezzycheck (Sora)</a></sub>
 
 **Prompt**
