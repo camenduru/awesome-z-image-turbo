@@ -1022,7 +1022,7 @@ Create an original creature inspired by this object (photo provided). The creatu
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-WnFEERTJJbnDpcjKdb35U.png?v=1" width="300" alt="Art Style: 剪影艺术 (Gemini Example 69) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/69/example_silhouette_art.png" width="300" alt="Art Style: 剪影艺术 (Gemini Example 69) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/63b7ba7e-ecaf-4e1d-85be-12ce3e3d2041" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-WnFEERTJJbnDpcjKdb35U.png?v=1" width="300" alt="Art Style: 剪影艺术 (Gemini Example 69) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/69/example_silhouette_art.png" width="300" alt="Art Style: 剪影艺术 (Gemini Example 69) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
@@ -1046,7 +1046,7 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-QGCQ1jjuNoKYgwFDo61qW.png?v=1" width="300" alt="未来主义 Logo 交易卡 (Gemini Example 68) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/68/example_trading_card_logo_tesla.png" width="300" alt="未来主义 Logo 交易卡 (Gemini Example 68) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/aa15ddc3-7c21-4c29-831f-d6f0080ab9e1" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-QGCQ1jjuNoKYgwFDo61qW.png?v=1" width="300" alt="未来主义 Logo 交易卡 (Gemini Example 68) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/68/example_trading_card_logo_tesla.png" width="300" alt="未来主义 Logo 交易卡 (Gemini Example 68) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hewarsaber">@hewarsaber</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hewarsaber">@hewarsaber</a></sub>
 
 **Prompt**
@@ -1094,7 +1094,7 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-rlprrmpgrWYxzcGFG6cN5.png?v=1" width="300" alt="Gaming: 超写实3D游戏 (Gemini Example 67) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/67/example_Ultra_realistic_3D_game.png" width="300" alt="Gaming: 超写实3D游戏 (Gemini Example 67) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/579cdc7b-d5d2-4fc3-adaa-2d4687d573a8" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-rlprrmpgrWYxzcGFG6cN5.png?v=1" width="300" alt="Gaming: 超写实3D游戏 (Gemini Example 67) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/67/example_Ultra_realistic_3D_game.png" width="300" alt="Gaming: 超写实3D游戏 (Gemini Example 67) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
@@ -1116,9 +1116,7 @@ The flash slightly overexposes her face and clothes, making her silhouette stand
 <a id="cases-66"></a>
 ### Case 66: Creative Silk Universe (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
-
-<img src="cases/66/example_silk_creation_universe.png" width="300" alt="Silk Universe-Creative Universe"><br>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9dacc8a9-6f02-4984-9e91-6b505f251cc2" /> | [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175) | <img src="cases/66/example_silk_creation_universe.png" width="300" alt="Silk Universe-Creative Universe">
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
@@ -1143,7 +1141,7 @@ Transform the {❄️} into a soft 3D object with a silk texture. The entire sur
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-sleMUJG0_smfYhUJ0x9zk.png?v=1" width="300" alt="Art Style: 奇幻水下场景冰棒 (Gemini Example 65) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/65/surreal-underwater-scene-popsicle.png" width="300" alt="Art Style: 奇幻水下场景冰棒 (Gemini Example 65) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/4569fbc8-a7c1-4586-8e73-c88a446d320f" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-sleMUJG0_smfYhUJ0x9zk.png?v=1" width="300" alt="Art Style: 奇幻水下场景冰棒 (Gemini Example 65) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/65/surreal-underwater-scene-popsicle.png" width="300" alt="Art Style: 奇幻水下场景冰棒 (Gemini Example 65) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/madpencil_">@madpencil_</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/madpencil_">@madpencil_</a></sub>
 
 **Prompt**
