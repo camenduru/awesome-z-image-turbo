@@ -843,9 +843,11 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 <a id="cases-76"></a>
 ### Case 76: Nostalgic Anime Film Poster (by [photis (Sora)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ))
 
+[Source Link](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
+
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/f26ac655-babf-4088-acfd-17314a209547" /> | [Source Link](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf) | <img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="Nostalgic Anime Film Poster"><br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f26ac655-babf-4088-acfd-17314a209547" /> | | <img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="Nostalgic Anime Film Poster"><br>
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub>
 
 **Prompt**
@@ -1116,9 +1118,11 @@ The flash slightly overexposes her face and clothes, making her silhouette stand
 <a id="cases-66"></a>
 ### Case 66: Creative Silk Universe (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
+
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/9dacc8a9-6f02-4984-9e91-6b505f251cc2" /> | [Source Link](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175) | <img src="cases/66/example_silk_creation_universe.png" width="300" alt="Silk Universe-Creative Universe">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9dacc8a9-6f02-4984-9e91-6b505f251cc2" /> | | <img src="cases/66/example_silk_creation_universe.png" width="300" alt="Silk Universe-Creative Universe">
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
