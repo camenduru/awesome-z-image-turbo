@@ -2078,7 +2078,7 @@ Naruto stickers
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-YDjMSDxDmJiQmon9y0aQx.png?v=1" width="300" alt="Art Style: 35mm 胶片风格飞岛 (Gemini Example 30) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/30/example_35mm_moscow_flying_island.png" width="300" alt="Art Style: 35mm 胶片风格飞岛 (Gemini Example 30) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/bc214ea5-f6bf-4a48-83be-1f051139919a" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-YDjMSDxDmJiQmon9y0aQx.png?v=1" width="300" alt="Art Style: 35mm 胶片风格飞岛 (Gemini Example 30) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/30/example_35mm_moscow_flying_island.png" width="300" alt="Art Style: 35mm 胶片风格飞岛 (Gemini Example 30) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -2101,7 +2101,7 @@ Naruto stickers
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-cX5uRn99v6ieXg54VaMkT.png?v=1" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/29/example_pearl_earring_ootd.png" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c66d1d4e-0c96-4e36-a927-32dd5a14ced8" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-cX5uRn99v6ieXg54VaMkT.png?v=1" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4oimages/cases/29/example_pearl_earring_ootd.png" width="300" alt="Character: 名画人物 OOTD (Gemini Example 29) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
@@ -2136,7 +2136,7 @@ Right side: individual clothing items and accessories laid out separately, as if
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_-Z8i4AiVnM8dH6b2eJwc.png?v=1" width="300" alt="Design: 扁平贴纸设计 (Gemini Example 28) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/28/example_flat_sticker_pearl_earring.png" width="300" alt="Design: 扁平贴纸设计 (Gemini Example 28) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/bff305e8-0e3d-4622-bac3-3c773ea97f2c" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-_-Z8i4AiVnM8dH6b2eJwc.png?v=1" width="300" alt="Design: 扁平贴纸设计 (Gemini Example 28) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/28/example_flat_sticker_pearl_earring.png" width="300" alt="Design: 扁平贴纸设计 (Gemini Example 28) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
@@ -2167,7 +2167,7 @@ The overall style should be clean, modern, and visually appealing for use as a f
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-z1V0ZUVo8ombk-OD14InN.png?v=1" width="300" alt="Object: Q 版表情包制作 (Gemini Example 27) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/27/example_chibi_emoji_pack.png" width="300" alt="Object: Q 版表情包制作 (Gemini Example 27) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/d054597e-0906-49fc-a600-982b9aa45eb5" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-z1V0ZUVo8ombk-OD14InN.png?v=1" width="300" alt="Object: Q 版表情包制作 (Gemini Example 27) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/27/example_chibi_emoji_pack.png" width="300" alt="Object: Q 版表情包制作 (Gemini Example 27) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
