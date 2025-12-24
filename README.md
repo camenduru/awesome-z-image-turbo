@@ -600,7 +600,7 @@ Double exposure, Midjourney style, merging, blending, overlay double exposure im
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/aeabf592-c86c-43c8-a9c0-16dd11b4f5bc" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v=1" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/85/case.png" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5db61098-11ae-4892-a78b-1e109d936ff2" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v=1" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/85/case.png" width="300" alt="Art Style: 超现实交互场景 (Gemini Example 85) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
@@ -672,7 +672,7 @@ A digital illustration of a [SUBJECT], portrayed with a network of glowing clean
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1" width="300" alt="Art Style: 特色城市天气预报 (Gemini Example 82) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/82/example.png" width="300" alt="Art Style: 特色城市天气预报 (Gemini Example 82) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/cb8eff0f-e58f-40bc-9b2b-ca4a5fbb5a80" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1" width="300" alt="Art Style: 特色城市天气预报 (Gemini Example 82) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/82/example.png" width="300" alt="Art Style: 特色城市天气预报 (Gemini Example 82) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
