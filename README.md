@@ -1637,7 +1637,7 @@ Please follow medical advice and purchase as needed.
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-JnhtyfaWRLJ48py1Fs2L8.png?v=1" width="300" alt="Character: 3D Q版大学拟人化形象 (Gemini Example 45) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/45/example_university_mascot_npu.png" width="300" alt="Character: 3D Q版大学拟人化形象 (Gemini Example 45) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/6bf186cf-399c-4cca-9965-958f783f60e3" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-JnhtyfaWRLJ48py1Fs2L8.png?v=1" width="300" alt="Character: 3D Q版大学拟人化形象 (Gemini Example 45) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/45/example_university_mascot_npu.png" width="300" alt="Character: 3D Q版大学拟人化形象 (Gemini Example 45) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -1661,7 +1661,7 @@ Create a personified 3D chibi-style anime girl character representing {Northwest
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4fs3Id9SWxlM-gUGoQ9Pl.png?v=1" width="300" alt="Character: RPG 风格角色卡片制作 (Gemini Example 44) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/44/example_rpg_card_designer.png" width="300" alt="Character: RPG 风格角色卡片制作 (Gemini Example 44) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b7f1ec91-92f8-4423-bce8-5964dab739e9" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4fs3Id9SWxlM-gUGoQ9Pl.png?v=1" width="300" alt="Character: RPG 风格角色卡片制作 (Gemini Example 44) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/44/example_rpg_card_designer.png" width="300" alt="Character: RPG 风格角色卡片制作 (Gemini Example 44) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
 
 **Prompt**
@@ -1693,7 +1693,7 @@ Colors: warm highlights, profession-matching hues.
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-pIPRRA5PM8cxFXTs-Alr8.png?v=1" width="300" alt="Character: Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini Example 43) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/43/example_matryoshka_pearl_earring.png" width="300" alt="Character: Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini Example 43) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/e3943204-9c5b-4931-bcfc-5cc9666b2933" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-pIPRRA5PM8cxFXTs-Alr8.png?v=1" width="300" alt="Character: Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini Example 43) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/43/example_matryoshka_pearl_earring.png" width="300" alt="Character: Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (Gemini Example 43) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
@@ -1717,7 +1717,7 @@ Transform the person in the image into a set of cute chibi-style Russian nesting
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-MoV0NzeVQ2AZEaSbMYqfl.png?v=1" width="300" alt="Character: 3D Q版情侣水晶球 (Gemini Example 42) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/42/example_3d_q_snowglobe_couple.png" width="300" alt="Character: 3D Q版情侣水晶球 (Gemini Example 42) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/fc9a6fe0-d652-45b2-bbf3-0f22dc87138d" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-MoV0NzeVQ2AZEaSbMYqfl.png?v=1" width="300" alt="Character: 3D Q版情侣水晶球 (Gemini Example 42) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/42/example_3d_q_snowglobe_couple.png" width="300" alt="Character: 3D Q版情侣水晶球 (Gemini Example 42) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **Prompt**
