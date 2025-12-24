@@ -188,7 +188,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="300" alt="Art Style: 实物与手绘涂鸦创意广告 (Gemini Example 100) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="Art Style: 实物与手绘涂鸦创意广告 (Gemini Example 100) - GPT-4o"> |
+<img width="300" src="https://github.com/user-attachments/assets/a2ccbace-ecc2-48a0-9453-d437953079e4" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1" width="300" alt="Art Style: 实物与手绘涂鸦创意广告 (Gemini Example 100) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="Art Style: 实物与手绘涂鸦创意广告 (Gemini Example 100) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
