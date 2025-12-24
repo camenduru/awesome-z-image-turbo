@@ -1166,7 +1166,7 @@ Tilt POV shot of a hand holding a surreal popsicle with a transparent blue exter
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png?v=1" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/64/example_steampunk_fish.jpg" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/bdda207a-9751-428c-a2ed-fd214efec8fd" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png?v=1" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/64/example_steampunk_fish.jpg" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/f-is-h">@f-is-h</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub>
 
 **Prompt**
@@ -1197,7 +1197,7 @@ The entire fish looks very cool. This is a high-definition image with extremely 
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ofHrVK4oclwpJayzpx6C5.png?v=1" width="300" alt="Cream Ice Cream - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/63/example_ice_cream_emoji_strawberry.png" width="300" alt="Cream Ice Cream - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/09e3ab27-2c7d-40c6-af97-bd27642b02c0" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-ofHrVK4oclwpJayzpx6C5.png?v=1" width="300" alt="Cream Ice Cream - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/63/example_ice_cream_emoji_strawberry.png" width="300" alt="Cream Ice Cream - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **Prompt**
@@ -1221,7 +1221,7 @@ Generate an image: Transform the [🍓] into a creamy ice cream bar, with cream 
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BZ4bE3tr5QKkaogEl_XQI.png?v=1" width="300" alt="Enamel Pin - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/62/example_enamel_pins_einstein.png" width="300" alt="Enamel Pin - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1dba829c-4080-43d9-9beb-38db20942f67" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BZ4bE3tr5QKkaogEl_XQI.png?v=1" width="300" alt="Enamel Pin - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/62/example_enamel_pins_einstein.png" width="300" alt="Enamel Pin - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gnrlyxyz">@gnrlyxyz</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gnrlyxyz">@gnrlyxyz</a></sub>
 
 **Prompt**
@@ -1246,7 +1246,7 @@ Turn the subject in the attached image into a kawaii enamel pin. Use glossy meta
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-5NAPAcMNSLl7j8PuX5mnt.png?v=1" width="300" alt="Fake Tweet Screenshot - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/61/example_fake_tweet_einstein.png" width="300" alt="Fake Tweet Screenshot - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/74d34b6d-0572-4b2a-a95e-f2c25bea699d" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-5NAPAcMNSLl7j8PuX5mnt.png?v=1" width="300" alt="Fake Tweet Screenshot - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/61/example_fake_tweet_einstein.png" width="300" alt="Fake Tweet Screenshot - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **Prompt**
@@ -1269,7 +1269,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-g1eDis0d0iaIEKLnkUSaa.png?v=1" width="300" alt="Tufted Rug - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/60/example_tufted_rug_star_emoji.png" width="300" alt="Tufted Rug - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/72cf7fbc-a50e-4cca-be37-9d3063655ac4" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-g1eDis0d0iaIEKLnkUSaa.png?v=1" width="300" alt="Tufted Rug - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/60/example_tufted_rug_star_emoji.png" width="300" alt="Tufted Rug - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
 
 **Prompt**
@@ -1293,7 +1293,7 @@ Create an image of a colorful, hand-tufted rug in the shape of 🦖 emoji, place
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4z8yN-EVHRBthTnpCB8Ka.png?v=1" width="300" alt="Vector Art Poster - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/59/example_vector_poster_london.png" width="300" alt="Vector Art Poster - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/11283419-8376-4f00-8d86-2326e1ad91f3" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4z8yN-EVHRBthTnpCB8Ka.png?v=1" width="300" alt="Vector Art Poster - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/59/example_vector_poster_london.png" width="300" alt="Vector Art Poster - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/michaelrabone">@michaelrabone</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/michaelrabone">@michaelrabone</a></sub>
 
 **Prompt**
