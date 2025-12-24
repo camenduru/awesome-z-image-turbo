@@ -1892,7 +1892,7 @@ a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like t
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/34e3583c-de8e-4d41-b149-e7e911dba08b" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/36/example_minimalist_3d_toilet_txt.png" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1070170b-aa1b-4d66-9838-30d8d9e106f3" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/36/example_minimalist_3d_toilet_txt.png" width="300" alt="Object: 极简主义 3D 插画 (Markdown 格式) (Gemini Example 36) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
