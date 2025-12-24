@@ -845,7 +845,7 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f26ac655-babf-4088-acfd-17314a209547" /> | [Source Link](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf) | <img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="Nostalgic Anime Film Poster"><br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f26ac655-babf-4088-acfd-17314a209547" /> | [Source Link](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf) | <img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="Nostalgic Anime Film Poster"><br>
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub>
 
 **Prompt**
@@ -869,7 +869,7 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8kfas56Jc3-f15O89pzKN.png?v=1" width="300" alt="Social Media: 社交媒体相框融合 (Gemini Example 75) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/75/example_instagram_frame_pearl_earring.png" width="300" alt="Social Media: 社交媒体相框融合 (Gemini Example 75) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/18e64676-3f2e-4b36-9dd5-9e8c8316d46f" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-8kfas56Jc3-f15O89pzKN.png?v=1" width="300" alt="Social Media: 社交媒体相框融合 (Gemini Example 75) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/75/example_instagram_frame_pearl_earring.png" width="300" alt="Social Media: 社交媒体相框融合 (Gemini Example 75) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -894,7 +894,7 @@ Create a stylized 3D chibi character based on the attached photo, accurately pre
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-h3g_ajtU5hs70Yy0tskiN.png?v=1" width="300" alt="Creative: Logo 形状创意书架 (Gemini Example 74) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/74/example_logo_bookshelves.png" width="300" alt="Creative: Logo 形状创意书架 (Gemini Example 74) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/649b50db-34c3-4e92-b732-121f97b7ac8a" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-h3g_ajtU5hs70Yy0tskiN.png?v=1" width="300" alt="Creative: Logo 形状创意书架 (Gemini Example 74) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/74/example_logo_bookshelves.png" width="300" alt="Creative: Logo 形状创意书架 (Gemini Example 74) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **Prompt**
@@ -918,7 +918,7 @@ Create a photograph of a modern bookshelf inspired by the shape of [LOGO]. The b
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BOHwhmk-H-LxQ398epkPp.png?v=1" width="300" alt="Character: 定制Q版钥匙串 (Gemini Example 73) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/73/example_keychain_chibi.png" width="300" alt="Character: 定制Q版钥匙串 (Gemini Example 73) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/edea186f-37fc-43f6-adca-d22feb9757fc" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-BOHwhmk-H-LxQ398epkPp.png?v=1" width="300" alt="Character: 定制Q版钥匙串 (Gemini Example 73) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/73/example_keychain_chibi.png" width="300" alt="Character: 定制Q版钥匙串 (Gemini Example 73) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **Prompt**
