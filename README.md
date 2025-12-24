@@ -1741,7 +1741,9 @@ Inside the globe: The characters are in a cute chibi-style 3D design, gazing at 
 
 [Source Link](https://x.com/dotey/status/1911609122547449886)
 
-<img src="cases/41/example_miniature_journey_west.png" width="300" alt="Miniature Three-dimensional Scene Presentation"><br>
+|   ZIT  | Gemini | GPT-4o |
+|--------|--------|--------|
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed928c84-55de-4bc5-98f2-a2e53d0d4639" /> | | <img src="cases/41/example_miniature_journey_west.png" width="300" alt="Miniature Three-dimensional Scene Presentation"><br>
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -1765,7 +1767,7 @@ Miniature three-dimensional scene presentation using tilt-shift photography tech
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-XDM_nzoGX3B2jB9L7igPb.png?v=1" width="300" alt="Art Style: 日系双格漫画 (少女总统红温了) (Gemini Example 40) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/40/example_two_panel_manga_president.png" width="300" alt="Art Style: 日系双格漫画 (少女总统红温了) (Gemini Example 40) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/872569e1-c166-4ac0-8cc4-0fdbf10d3616" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-XDM_nzoGX3B2jB9L7igPb.png?v=1" width="300" alt="Art Style: 日系双格漫画 (少女总统红温了) (Gemini Example 40) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/40/example_two_panel_manga_president.png" width="300" alt="Art Style: 日系双格漫画 (少女总统红温了) (Gemini Example 40) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hellokaton">@hellokaton</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hellokaton">@hellokaton</a></sub>
 
 **Prompt**
@@ -1809,7 +1811,7 @@ Additional Notes:
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-RaHNLaeUbUIIBk4628lgB.png?v=1" width="300" alt="Art Style: 奇幻卡通插画 (Gemini Example 39) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/39/example_fantasy_computer_head_portal.png" width="300" alt="Art Style: 奇幻卡通插画 (Gemini Example 39) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/41772355-8f6a-4f14-aeb0-9ad22a900490" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-RaHNLaeUbUIIBk4628lgB.png?v=1" width="300" alt="Art Style: 奇幻卡通插画 (Gemini Example 39) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/39/example_fantasy_computer_head_portal.png" width="300" alt="Art Style: 奇幻卡通插画 (Gemini Example 39) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -1832,7 +1834,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-IYHHoIpU4W019PKtENm5m.png?v=1" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 38) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/38/example_hand_drawn_infographic.png" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 38) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/0b31b780-a154-46ad-b3f8-79b4b60ce1a6" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-IYHHoIpU4W019PKtENm5m.png?v=1" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 38) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/38/example_hand_drawn_infographic.png" width="300" alt="Art Style: 手绘信息图卡片 (Gemini Example 38) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **Prompt**
@@ -1862,7 +1864,7 @@ Keep updating daily, and results will come — because 99% of people can’t kee
 
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
-| <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-XwSqExH2NYE4F5AvJ_-X4.png?v=1" width="300" alt="Object: 柔和风格3D广告 (Gemini Example 37) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/37/pastel_power_3d_ads.png" width="300" alt="Object: 柔和风格3D广告 (Gemini Example 37) - GPT-4o"> |
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/97c12e98-e141-4c7c-8a62-7a6147f18fb7" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-XwSqExH2NYE4F5AvJ_-X4.png?v=1" width="300" alt="Object: 柔和风格3D广告 (Gemini Example 37) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/37/pastel_power_3d_ads.png" width="300" alt="Object: 柔和风格3D广告 (Gemini Example 37) - GPT-4o"> |
 <sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
 
 **Prompt**
