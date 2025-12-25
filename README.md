@@ -970,7 +970,7 @@ A photorealistic close-up of a gold pendant necklace held by female hand. The pe
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/5cc43138-03ae-4d11-ae97-8f96a0b3c4eb" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-d4mtCy2DuZk2bkXiDMoOS.png?v=1" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="迷你 Cyberpunk 傾斜移軸景觀 (Gemini Example 71) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/terry623">terry623</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub>
+<sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub>
 
 **Prompt**
 
@@ -1169,7 +1169,7 @@ Tilt POV shot of a hand holding a surreal popsicle with a transparent blue exter
 |   ZIT  | Gemini | GPT-4o |
 |--------|--------|--------|
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/bdda207a-9751-428c-a2ed-fd214efec8fd" /> | <img src="https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png?v=1" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - Gemini"> | <img src="https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/64/example_steampunk_fish.jpg" width="300" alt="Art Style: 蒸汽朋克机械鱼 (Gemini Example 64) - GPT-4o"> |
-<sub>Image © 2025 <a href="https://github.com/f-is-h">@f-is-h</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub>
+<sub>Image © 2025 <a href="https://github.com/camenduru">@camenduru</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub> | | <sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub>
 
 **Prompt**
 
@@ -3042,7 +3042,7 @@ If your work is included here and you wish to change the attribution or have it 
 <a id="star-history"></a>
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=camenduru/awesome-z-image-turbo&type=Date)](https://www.star-history.com/#camenduru/awesome-z-image-turbo&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=camenduru/awesome-z-image-turbo&type=date&legend=top-left)](https://www.star-history.com/#camenduru/awesome-z-image-turbo&type=date&legend=top-left)
 
 [⬆️ Back to Top](#readme-top)
 
